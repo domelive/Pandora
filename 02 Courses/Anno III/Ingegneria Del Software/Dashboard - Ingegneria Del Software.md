@@ -14,7 +14,7 @@ const pages = dv.pages('"' + lecturesPath + '"');  // <- quotes are critical
 dv.paragraph("***Total lectures:*** " + pages.length);
 dv.paragraph("***Last updated:*** " + (new Date()).toLocaleString());
 ```
-## 🕓 Lectures to Review
+## 🕓 Lectures Da Revisionare
 ---
 ```dataview
 table file.link as "Lecture", date
@@ -23,7 +23,7 @@ where reviewed = false
 sort date asc
 ```
 
-## ✅ Reviewed Lectures
+## ✅ Lectures Revisionate
 ---
 ```dataview
 table file.link as "Lecture", date
@@ -32,7 +32,7 @@ where reviewed = true
 sort date asc
 ```
 
-## 🗒️ Tasks
+## 🗒️ Tasks Da Fare
 ---
 ```dataview
 task from "02 Courses/Anno III/Ingegneria Del Software/Lectures"

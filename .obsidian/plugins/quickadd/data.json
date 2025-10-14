@@ -8,7 +8,7 @@
       "templatePath": "05 Templates/Lecture.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "Lecture - {{DATE:YYYY-MM-DD|HH.mm}}"
+        "format": "Lecture - {{DATE:DD-MM-YYYY-HH.mm}}"
       },
       "folder": {
         "enabled": true,
@@ -38,7 +38,7 @@
       "templatePath": "05 Templates/Lecture.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "Lecture - {{DATE:YYYY-MM-DD|HH.mm}}"
+        "format": "Lecture - {{DATE:DD-MM-YYYY-HH.mm}}"
       },
       "folder": {
         "enabled": true,
@@ -68,12 +68,110 @@
       "templatePath": "05 Templates/Lecture.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "Lecture - {{DATE:YYYY-MM-DD|HH.mm}}"
+        "format": "Lecture - {{DATE:DD-MM-YYYY-HH.mm}}"
       },
       "folder": {
         "enabled": true,
         "folders": [
           "02 Courses/Anno III/Apprendimento Automatico/Lectures"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c34e5b22-7ac3-4e23-b131-e21e7249f299",
+      "name": "Mark As Reviewed",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Mark As Reviewed",
+        "id": "c9652ddb-8994-4b93-a1d0-c052216418d8",
+        "commands": [
+          {
+            "name": "markReviewed",
+            "type": "UserScript",
+            "id": "00aca2cf-0c0d-4a37-b40d-a096b6fefa55",
+            "path": "05 Templates/scripts/markReviewed.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "5ca67bf7-c71b-4ea1-aa3a-a6abcabb293d",
+      "name": "New Project",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "New Project",
+        "id": "6fdd0d2d-e455-4ad1-9a03-624b0abf8b19",
+        "commands": [
+          {
+            "name": "Untitled Template Choice",
+            "type": "NestedChoice",
+            "id": "7ec56e2a-b81a-42f6-8c6d-fd90392aa7b1",
+            "choice": {
+              "id": "56ed4b21-839a-4637-a95b-907819f89507",
+              "name": "Untitled Template Choice",
+              "type": "Template",
+              "command": false,
+              "templatePath": "05 Templates/Project.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{value}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "03 Projects/{{value}}"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "d74b6dd3-927a-4d47-950a-747f35189d53",
+      "name": "Inbox",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05 Templates/Inbox.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Inbox - {{DATE:DD-MM-YYYY-HH.mm}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "00 Inbox"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

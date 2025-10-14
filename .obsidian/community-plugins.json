@@ -7,5 +7,10 @@
   "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-latex-suite",
+  "obsidian-completr",
+  "quick-latex",
+  "obsidian-minimal-settings",
+  "buttons"
 ]

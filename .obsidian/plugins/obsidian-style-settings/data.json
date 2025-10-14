@@ -1,3 +1,5 @@
 {
-  "things-style@@h2-underline": false
+  "things-style@@h2-underline": false,
+  "things-style@@strong-color": "#82EBFF",
+  "things-style@@em-color": "#82D1FF"
 }
