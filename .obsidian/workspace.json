@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "ae571c8d95b1683c",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e8cbe553c01e9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "976498ca7e7da922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Student Dashboard/Student Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Student Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "059927dc7c944039",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ae61b7f985e186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44125422537b0c93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f87146ddd50c5a70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "efcdfa362bb5186f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a87141acbe831fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f550cc448d585c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61fe35fb73c526b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Student Dashboard/Student Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Student Dashboard"
+            }
+          },
+          {
+            "id": "211f585ef341f275",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "48fc7d702e5a7cd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a21ebb97427d3912",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "255023354785f8d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "976498ca7e7da922",
+  "lastOpenFiles": [
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 2025-10-13|23.53.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Dashboard - Ingegneria Del Software.md",
+    "Archive/scripts/markReviewed.js~",
+    "01 Student Dashboard/Student Dashboard.md",
+    "Archive/scripts/markReviewed.js",
+    "Archive/scripts/markReviewed.js.md",
+    "Archive/scripts",
+    "Archive/Untitled.md",
+    "05 Templates/Lecture.md",
+    "05 Templates/Course Dashboard.md",
+    "scripts",
+    "02 Courses/Anno III/Apprendimento Automatico/Dashboard - Apprendimento Automatico.md",
+    "02 Courses/Anno III/Basi Di Dati/Dashboard - Basi Di Dati.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 2025-10-13|23.42.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 2025-10-13|23.34.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 2025-10-13|20.40.md",
+    "02 Courses/Anno III/Basi Di Dati/Dashboard Basi Di Dati.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Dashboard Ingegneria Del Software.md",
+    "05 Templates/Daily Note.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture — 2025-10-13|20.37.md",
+    "05 Templates/C.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture — 2025-10-13|20.26.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture <% tp.date.now(\"YYYY-MM-DD\") %>.md",
+    "Lecture <% tp.date.now(\"YYYY-MM-DD\") %>.md",
+    "02 Courses/[Course Name]/Lectures/Lecture-<% tp.date.now(\"YYYY-MM-DD\") %>.md",
+    "02 Courses/[Course Name]/Lectures",
+    "02 Courses/[Course Name]",
+    "01 Daily Notes/2025-10-13.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Summaries",
+    "02 Courses/Anno III/Apprendimento Automatico/Resources",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures",
+    "02 Courses/Anno III/Apprendimento Automatico",
+    "Welcome.md"
+  ]
+}
