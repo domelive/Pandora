@@ -201,6 +201,7 @@ cautela
 corollario
 combinazioni
 combinazione
+calcola
 Ingegneria
 III
 Insieme
@@ -240,6 +241,7 @@ INA
 Impurity
 Indipendenti
 Inoltre
+Indipendenza
 Del
 Di
 DD
@@ -329,6 +331,7 @@ Spesso
 Sappiamo
 Stimare
 Suppone
+Stima
 Overview
 Ogni
 Occorre
@@ -374,6 +377,7 @@ Lc
 LNOO
 LS
 Li
+Likelihood
 Review
 Reviewed
 Riferimenti
@@ -460,6 +464,7 @@ TM
 TU
 Test
 Teoremi
+Tecnica
 Courses
 Concetti
 Costruzione
@@ -511,6 +516,7 @@ Condizionata
 Chain
 Congiunta
 Costruire
+Classificazione
 Anno
 Apprendimento
 Automatico
@@ -660,6 +666,7 @@ assumere
 abbia
 altrettanto
 altro
+aleatorie
 reviewed
 review
 regressione
@@ -794,6 +801,7 @@ nozione
 necessario
 nostra
 necessariamente
+nuovo
 Funzioni
 Fv
 FP
@@ -923,6 +931,7 @@ esiti
 elementari
 esattamente
 esprimibile
+esimo
 outputs
 obiettivo
 ogni
@@ -1087,6 +1096,8 @@ MU
 MS
 MK
 Multivalore
+Maximum
+MLE
 HH
 HD
 HHHL
@@ -1133,6 +1144,7 @@ Ng
 Nj
 Negativi
 Noi
+Nuovo
 Upcoming
 Un
 UxEM
@@ -1274,6 +1286,7 @@ Poco
 Puo
 Piu
 Probabilita
+Parametri
 una
 un
 uscente
@@ -1361,6 +1374,7 @@ vero
 vera
 visualizzazione
 ve
+variabili
 spazio
 soluzione
 scelta
@@ -1454,6 +1468,7 @@ seguono
 seguenti
 stimare
 siano
+supponendo
 booleani
 base
 bG
@@ -1523,6 +1538,7 @@ Early
 Errore
 Effettuare
 Eventi
+Estimates
 hanno
 hU
 ho
@@ -1577,6 +1593,7 @@ generico
 gran
 garantire
 grafica
+generale
 JJ
 JA
 JZ
