@@ -13,13 +13,13 @@ where contains(tags, "lecture")
 sort date desc
 limit 10
 ```
-## 📊  Lectures Da Revisionare Presto
+## 📊  Lectures Da Revisionare
 ---
 ```dataview
-table file.link as "Note", type, next_review, reviewed
+table course, file.link as "Lecture", date
 from "02 Courses"
-where next_review and date(next_review) <= date(today) + dur(7 days)
-sort next_review asc
+where reviewed = false
+sort date asc
 ```
 
 ## 📅 Tasks Da Fare
