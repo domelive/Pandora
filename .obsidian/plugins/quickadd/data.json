@@ -187,6 +187,36 @@
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "4b5ba682-bcac-48fa-b7b7-ff03b72ee83d",
+      "name": "Sistemi Virtuali",
+      "type": "Template",
+      "command": true,
+      "templatePath": "05 Templates/Lecture.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Lecture - {{DATE:DD-MM-YYYY-HH.mm}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 Courses/Anno III/Progetto Di Sistemi Virtuali/Lectures"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",
