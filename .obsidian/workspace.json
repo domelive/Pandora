@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "443cfd984e9961e1",
+        "id": "9cb0cd2c62e31cee",
         "type": "tabs",
-        "dimension": 33.7956204379562,
         "children": [
           {
-            "id": "e3ceacdc7eefeabe",
+            "id": "cf55061affafa104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 16-10-2025-15.02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture - 16-10-2025-15.02"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8367c059950887b",
-        "type": "tabs",
-        "dimension": 66.2043795620438,
-        "children": [
-          {
-            "id": "17d28e55393d897e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 17-10-2025-15.14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture - 17-10-2025-15.14"
+              "title": "New tab"
             }
           }
         ]
@@ -100,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0a87141acbe831fe",
@@ -178,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -214,22 +187,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "17d28e55393d897e",
+  "active": "cf55061affafa104",
   "lastOpenFiles": [
-    "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 16-10-2025-15.02.md",
-    "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 17-10-2025-15.14.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Dashboard - Apprendimento Automatico.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 17-10-2025-13.18.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 16-10-2025-13.09.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-13.40.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-13.39.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251018_165311.png",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251018_163504.png",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-09.06.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 14-10-2025-10.20.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-08.07.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251018_104730.png",
     "02 Courses/Anno III/Progetto Di Sistemi Virtuali/Lectures/Lecture - 17-10-2025-09.09.md",
     "02 Courses/Anno III/Progetto Di Sistemi Virtuali/Lectures/Lecture - 16-10-2025-09.16.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 16-10-2025-13.09.md",
-    "02 Courses/Anno III/Basi Di Dati/Dashboard - Basi Di Dati.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-13.39.md",
     "02 Courses/Anno III/Progetto Di Sistemi Virtuali/Lectures",
     "02 Courses/Anno III/Progetto Di Sistemi Virtuali",
-    "02 Courses/Anno III/Apprendimento Automatico/Dashboard - Apprendimento Automatico.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-09.06.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-08.07.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 14-10-2025-10.20.md",
+    "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 17-10-2025-15.14.md",
+    "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 16-10-2025-15.02.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251015_103525.png",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251015_100028.png",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251015_095655.png",
@@ -248,19 +224,14 @@
     "03 Projects/SortVisualizer",
     "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 14-10-2025-17.15.md",
     "02 Courses/Anno III/Ingegneria Del Software/Dashboard - Ingegneria Del Software.md",
-    "Inbox - 14-10-2025-17.07.md",
-    "05 Templates/Inbox.md",
+    "02 Courses/Anno III/Basi Di Dati/Dashboard - Basi Di Dati.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251014_164510.png",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251014_105300.png",
-    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 2025-10-14-16.52.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Screenshot_20251014_164310.png",
     "03 Projects/Turbo-Rotary-DB",
     "03 Projects/Turbo Rotary",
     "05 Templates/scripts/markReviewed.js",
     "05 Templates/scripts/markReviewed.js~",
     "05 Templates/scripts/4913",
-    "05 Templates/scripts",
-    "Pasted image 20251014115729.png"
+    "05 Templates/scripts"
   ]
 }
