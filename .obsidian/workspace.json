@@ -4,17 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "9cb0cd2c62e31cee",
+        "id": "b611c94db6edcdaa",
         "type": "tabs",
+        "dimension": 27.810218978102192,
         "children": [
           {
-            "id": "cf55061affafa104",
+            "id": "dcc8637dfaaea587",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 20-10-2025-10.38.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture - 20-10-2025-10.38"
+            }
+          }
+        ]
+      },
+      {
+        "id": "74e10125e165059b",
+        "type": "tabs",
+        "dimension": 72.18978102189782,
+        "children": [
+          {
+            "id": "aa3e9276b2142286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 20-10-2025-15.16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture - 20-10-2025-15.16"
             }
           }
         ]
@@ -74,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0a87141acbe831fe",
@@ -151,8 +178,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -187,25 +214,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf55061affafa104",
+  "active": "aa3e9276b2142286",
   "lastOpenFiles": [
-    "02 Courses/Anno III/Apprendimento Automatico/Dashboard - Apprendimento Automatico.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 17-10-2025-13.18.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 20-10-2025-10.38.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 20-10-2025-15.16.md",
+    "02 Courses/Anno III/Ingegneria Del Software/Lectures/Lecture - 20-10-2025-09.33.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 16-10-2025-13.09.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-13.40.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-13.39.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 17-10-2025-13.18.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251018_165311.png",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251018_163504.png",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-09.06.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 14-10-2025-10.20.md",
-    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-08.07.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251018_104730.png",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-13.40.md",
+    "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 16-10-2025-15.02.md",
+    "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 17-10-2025-15.14.md",
     "02 Courses/Anno III/Progetto Di Sistemi Virtuali/Lectures/Lecture - 17-10-2025-09.09.md",
     "02 Courses/Anno III/Progetto Di Sistemi Virtuali/Lectures/Lecture - 16-10-2025-09.16.md",
+    "02 Courses/Anno III/Basi Di Dati/Dashboard - Basi Di Dati.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-13.39.md",
     "02 Courses/Anno III/Progetto Di Sistemi Virtuali/Lectures",
     "02 Courses/Anno III/Progetto Di Sistemi Virtuali",
-    "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 17-10-2025-15.14.md",
-    "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 16-10-2025-15.02.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Dashboard - Apprendimento Automatico.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-09.06.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 15-10-2025-08.07.md",
+    "02 Courses/Anno III/Apprendimento Automatico/Lectures/Lecture - 14-10-2025-10.20.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251015_103525.png",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251015_100028.png",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251015_095655.png",
@@ -223,8 +254,6 @@
     "03 Projects/SortVisualizer/SortVisualizer.md",
     "03 Projects/SortVisualizer",
     "02 Courses/Anno III/Basi Di Dati/Lectures/Lecture - 14-10-2025-17.15.md",
-    "02 Courses/Anno III/Ingegneria Del Software/Dashboard - Ingegneria Del Software.md",
-    "02 Courses/Anno III/Basi Di Dati/Dashboard - Basi Di Dati.md",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments/Screenshot_20251014_164510.png",
     "02 Courses/Anno III/Apprendimento Automatico/Lectures/attachments",
     "03 Projects/Turbo-Rotary-DB",
