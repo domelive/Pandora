@@ -53,6 +53,7 @@ tradizionale
 tratteggiata
 trovano
 trasforma
+<<<<<<< HEAD
 tradurre
 tipi
 tutto
@@ -66,6 +67,22 @@ tedesca
 template
 termini
 tipica
+=======
+tabelle
+tempo
+toglie
+terzo
+tenuti
+trasferire
+tiene
+traccia
+transazioni
+tante
+transazione
+terminare
+torno
+tutto
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 dashboard
 date
 di
@@ -157,6 +174,7 @@ detta
 decision
 divide
 determina
+<<<<<<< HEAD
 design
 descrive
 distingue
@@ -182,6 +200,19 @@ database
 dentro
 dare
 dichiarate
+=======
+disk
+direttiva
+dentro
+duplicati
+database
+disco
+devono
+deadlock
+dallo
+durabilit
+descrivere
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 course
 che
 classificazione
@@ -304,6 +335,7 @@ classificatore
 causa
 compromesso
 cerca
+<<<<<<< HEAD
 continuamente
 cuore
 creare
@@ -346,6 +378,39 @@ cos
 complicato
 cancellare
 class
+=======
+creare
+comando
+chiave
+colonne
+chiamano
+clausole
+chiamata
+colonna
+compaiono
+comprese
+cartesiano
+crea
+contenere
+compilatore
+corretto
+consistente
+comprenda
+crash
+competono
+consumano
+ciclo
+concorrente
+consistenza
+cambiamenti
+cambi
+cancelliamo
+controlla
+commit
+corrispondenti
+cronologica
+conflitti
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Ingegneria
 III
 Insieme
@@ -389,6 +454,7 @@ Indipendenza
 Indica
 Invece
 Interessante
+<<<<<<< HEAD
 Informalmente
 Incapsulano
 Inserire
@@ -396,6 +462,16 @@ Iterator
 IP
 Interpreti
 Inner
+=======
+Indici
+Interpretazione
+Infine
+Interagisce
+Index
+Implementazione
+Isolation
+Isolamento
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Del
 Di
 DD
@@ -448,11 +524,20 @@ Definizione
 Dobbiamo
 Densita
 Dall
+<<<<<<< HEAD
 Descrivono
 Delega
 Devo
 Decorator
 DB
+=======
+DBMS
+Differenze
+Deve
+Deadlock
+Durability
+Decide
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Software
 Set
 Soon
@@ -506,6 +591,7 @@ Similitudine
 Supervisionato
 Sono
 Sostanzialmente
+<<<<<<< HEAD
 Strutturale
 Soluzione
 Singleton
@@ -520,6 +606,20 @@ Struttura
 Sorgenti
 Strutture
 SQL
+=======
+SSD
+SQL
+Select
+Statement
+Storage
+Single
+Sort
+Stato
+Schedule
+Seriale
+Serializzabile
+Scrittura
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Overview
 Ogni
 Occorre
@@ -544,10 +644,16 @@ OdR
 Oppure
 Of
 Ora
+<<<<<<< HEAD
 Object
 Oriented
 Oggetto
 Organizzazione
+=======
+Oggi
+Ottimizzazione
+Ottiene
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Lectures
 Lo
 Le
@@ -576,8 +682,16 @@ Logistica
 Log
 Lineare
 Lineari
+<<<<<<< HEAD
 LLM
 Livelli
+=======
+LIKE
+Livello
+Logging
+Lunga
+Lettura
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Review
 Reviewed
 Riferimenti
@@ -635,10 +749,19 @@ Riscrivere
 Riguardo
 Radice
 Restituisce
+<<<<<<< HEAD
 Reflection
 RMIC
 Responsibility
 Repositories
+=======
+RAM
+Relazionale
+Risorse
+Rappresenta
+Recovery
+Risoluzione
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Tasks
 Training
 Top
@@ -680,9 +803,17 @@ Tecniche
 True
 Tutti
 Troviamo
+<<<<<<< HEAD
 TCP
 Tabelle
 The
+=======
+Tre
+Transazioni
+Transazione
+Tutte
+Tipi
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Courses
 Concetti
 Costruzione
@@ -743,6 +874,7 @@ Coseno
 Controlliamo
 Costruiamo
 Cross
+<<<<<<< HEAD
 Creazionale
 Comportamentale
 Conseguenze
@@ -753,6 +885,16 @@ Crea
 Comunissimo
 Controlli
 Classi
+=======
+Compilatore
+Concurrency
+Control
+Consistency
+Consistenza
+Controllo
+Commit
+Completo
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Anno
 Apprendimento
 Automatico
@@ -801,6 +943,7 @@ Adesso
 Approccio
 Analitica
 Armonica
+<<<<<<< HEAD
 Astraggono
 Abstract
 Applicazione
@@ -810,6 +953,16 @@ Altrimenti
 Architettura
 Architetture
 Android
+=======
+Algebra
+Architettura
+AST
+ACID
+Atomicity
+Abort
+Attributi
+Alternante
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 lecture
 last
 la
@@ -854,6 +1007,7 @@ lab
 lineare
 logaritmi
 linea
+<<<<<<< HEAD
 lavora
 linguaggi
 lo
@@ -863,6 +1017,26 @@ linux
 linguaggio
 legato
 locale
+=======
+lenta
+letture
+limitate
+lavora
+livello
+list
+leggibilit
+layers
+lo
+log
+location
+lasciare
+lock
+loop
+lista
+lettura
+leggo
+lucido
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 alberi
 allenamento
 apprendere
@@ -955,6 +1129,7 @@ arancione
 alcuni
 adotta
 analitica
+<<<<<<< HEAD
 ambiente
 aggregazione
 applicazione
@@ -981,6 +1156,30 @@ accessibile
 accedere
 aggiungere
 anonime
+=======
+accesso
+attivit
+automatico
+aggiungere
+andiamo
+avr
+algebra
+accedervi
+accedere
+atomica
+assicuriamo
+accede
+avessi
+anomalie
+assicurare
+abortita
+azione
+andato
+abort
+accedono
+agli
+ancora
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 reviewed
 review
 regressione
@@ -1042,6 +1241,7 @@ riportiamo
 riporta
 riducono
 rossa
+<<<<<<< HEAD
 relazioni
 rendere
 riutilizzabile
@@ -1063,6 +1263,30 @@ risolva
 raggruppare
 riconoscono
 racchiude
+=======
+rendere
+ricerca
+realizzati
+ritiene
+renderla
+rinominazioni
+restituita
+relazionale
+ritorner
+rinominazione
+risultati
+relazioni
+ritornano
+restituire
+record
+ripristina
+risorse
+rollback
+riga
+righe
+ritorna
+read
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 false
 funzione
 file
@@ -1118,6 +1342,7 @@ funziona
 fatto
 figura
 formula
+<<<<<<< HEAD
 farla
 funzionalit
 flussi
@@ -1133,6 +1358,22 @@ facendo
 filtri
 facile
 funzionare
+=======
+fase
+fisico
+fanno
+faccia
+forma
+fatta
+facciamo
+fretta
+fosse
+far
+facendoci
+finisco
+fermare
+finire
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 next
 nostro
 now
@@ -1187,6 +1428,7 @@ nelle
 nulle
 negativa
 negativi
+<<<<<<< HEAD
 nuove
 ne
 nomi
@@ -1198,6 +1440,11 @@ necessit
 nome
 nested
 namespace
+=======
+nome
+nomi
+no
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Funzioni
 Fv
 FP
@@ -1234,10 +1481,14 @@ Feature
 Funzione
 False
 Formalmente
+<<<<<<< HEAD
 Factory
 Fa
 Filtri
 Fly
+=======
+File
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 insieme
 inputs
 istanza
@@ -1298,6 +1549,7 @@ individuano
 intuitiva
 idea
 iterativi
+<<<<<<< HEAD
 innumerevoli
 istanziazione
 interfacce
@@ -1329,6 +1581,23 @@ interne
 interna
 istanziato
 include
+=======
+indici
+indice
+importanti
+implicito
+interagire
+inseriti
+impatta
+istruzioni
+istruzione
+isolata
+isolamento
+interne
+inconsistenti
+iniziale
+intermittente
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 esempi
 esempio
 etichettata
@@ -1384,6 +1653,7 @@ espressione
 etichettati
 esigenze
 evince
+<<<<<<< HEAD
 ereditariet
 ecc
 elementi
@@ -1398,6 +1668,23 @@ esecuzione
 esistenza
 esterno
 esistere
+=======
+efficiente
+eseguire
+espressioni
+espressivo
+esecuzione
+eseguite
+eseguiti
+efficienza
+essa
+esse
+esplicito
+esegue
+entrambe
+eseguendole
+eccezioni
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 outputs
 obiettivo
 ogni
@@ -1440,6 +1727,7 @@ output
 ora
 opportuno
 occorre
+<<<<<<< HEAD
 object
 oriented
 oggetti
@@ -1453,6 +1741,15 @@ opera
 ordine
 organizzativa
 organizzazione
+=======
+opzione
+operazioni
+occupate
+ordine
+ordinata
+ordinate
+ottenuto
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 quello
 quale
 questo
@@ -1490,7 +1787,15 @@ quante
 queste
 quadratico
 questi
+<<<<<<< HEAD
 qualcuno
+=======
+query
+quali
+quelle
+quantit
+qualcun
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 mappa
 mm
 meglio
@@ -1552,6 +1857,7 @@ mostra
 massimizzano
 massimizzare
 metodi
+<<<<<<< HEAD
 mai
 mattoni
 mutuali
@@ -1578,6 +1884,22 @@ messe
 motivi
 mondo
 membri
+=======
+mezzo
+memoria
+mette
+maggiore
+manager
+manda
+maniera
+modi
+match
+merge
+mantenere
+mai
+messe
+male
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 YYYY
 Yw
 YR
@@ -1628,9 +1950,18 @@ Maximum
 MLE
 Media
 Molte
+<<<<<<< HEAD
 Molto
 Mediator
 Mi
+=======
+Metodo
+Modo
+Memoria
+Managers
+Motore
+Manager
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 HH
 HD
 HHHL
@@ -1649,8 +1980,12 @@ Hs
 HAA
 HP
 Hg
+<<<<<<< HEAD
 Ho
 Hanno
+=======
+Hash
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Needing
 No
 Nt
@@ -1686,9 +2021,14 @@ Nella
 Nel
 Negatives
 Nota
+<<<<<<< HEAD
 Nascondono
 Nome
 Non
+=======
+Non
+Nasce
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Nested
 Upcoming
 Un
@@ -1826,6 +2166,7 @@ puntuali
 parla
 positiva
 passare
+<<<<<<< HEAD
 patterns
 poter
 programmazione
@@ -1851,6 +2192,33 @@ programmare
 penalizzare
 performance
 puramente
+=======
+perch
+pensati
+programmatore
+pu
+poich
+possa
+prosegue
+posto
+potere
+proiezione
+piani
+puntare
+programmi
+poter
+performance
+piano
+parti
+partiziona
+piccoli
+programma
+possano
+procedere
+predicato
+persi
+prese
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Predizione
 Per
 PNG
@@ -1896,6 +2264,7 @@ Permette
 Passando
 Posto
 Positives
+<<<<<<< HEAD
 Pattern
 Patterns
 Problema
@@ -1907,6 +2276,18 @@ Proxy
 Pipe
 Pi
 Possono
+=======
+Poi
+Predicato
+Potrebbe
+Processore
+Parsing
+Pre
+Preferibile
+Propriet
+Posso
+Permettono
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 una
 un
 uscente
@@ -1954,12 +2335,21 @@ usa
 usare
 utilizzare
 uguale
+<<<<<<< HEAD
 usato
 univoca
 utilizzando
 unica
 utilizzo
 usati
+=======
+usano
+utente
+user
+unit
+unica
+ultimo
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 valore
 valori
 vettore
@@ -2014,6 +2404,7 @@ valutata
 vengono
 vederlo
 varia
+<<<<<<< HEAD
 vuole
 viene
 voglio
@@ -2025,6 +2416,13 @@ visitor
 visione
 visibilit
 veda
+=======
+veloce
+viene
+volessimo
+velocizza
+volta
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 spazio
 soluzione
 scelta
@@ -2144,6 +2542,7 @@ scorrettamente
 sovrapposizione
 stimano
 sulle
+<<<<<<< HEAD
 sviluppo
 software
 solo
@@ -2186,6 +2585,44 @@ statici
 soltanto
 sintassi
 supplemento
+=======
+scopo
+strutture
+secondaria
+scritture
+selezionare
+selezione
+shortcut
+sempre
+sorta
+scrivere
+stessi
+separate
+selezioni
+storage
+sicurezza
+seguire
+struttura
+step
+scheduler
+sa
+schema
+stato
+scrive
+scritto
+solo
+soddisfano
+sicura
+successivi
+serie
+sistema
+scritte
+schedule
+stesi
+seriale
+scrittura
+scrivo
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 booleani
 base
 bG
@@ -2229,11 +2666,19 @@ bilanciate
 basati
 blu
 boundary
+<<<<<<< HEAD
 bridge
 bagno
 basate
 blackboard
 basta
+=======
+buffer
+blocchi
+blocco
+bisogno
+based
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Espressivita
 Entropia
 Essa
@@ -2273,8 +2718,13 @@ Estimates
 Equivalenza
 Esempio
 Esso
+<<<<<<< HEAD
 Ero
 Entit
+=======
+Esamina
+Esecuzione
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 hanno
 hU
 ho
@@ -2300,6 +2750,9 @@ hV
 hO
 ha
 high
+hashing
+hard
+hash
 grado
 gkN
 gh
@@ -2335,12 +2788,22 @@ geometrica
 gestire
 gaussiane
 gradiente
+<<<<<<< HEAD
 giusti
 grafiche
 gestisca
 gi
 generali
 guida
+=======
+gi
+gestisce
+grande
+giusto
+grandi
+garantita
+garantito
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 JJ
 JA
 JZ
@@ -2367,7 +2830,11 @@ JQ
 JB
 Ji
 JhT
+<<<<<<< HEAD
 Java
+=======
+JOIN
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Qj
 Qlp
 QR
@@ -2395,9 +2862,14 @@ Qk
 Quest
 Quindi
 Questo
+<<<<<<< HEAD
 Qualunque
 Quasi
 Queste
+=======
+Quello
+Query
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Xt
 Xbhv
 Xbb
@@ -2439,7 +2911,11 @@ wP
 wU
 wf
 weak
+<<<<<<< HEAD
 widget
+=======
+write
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 Gt
 Gm
 GM
@@ -2473,8 +2949,12 @@ Generativa
 Gaussiano
 Gaussiana
 Geometrica
+<<<<<<< HEAD
 Gamma
 Genero
+=======
+Garantiscono
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 yf
 yE
 yY
@@ -2573,8 +3053,13 @@ Bag
 Balancing
 Booleano
 Binario
+<<<<<<< HEAD
 Builder
 Bridge
+=======
+Bisogna
+Buffer
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 kZkD
 kD
 kVQ
@@ -2634,8 +3119,12 @@ Valore
 Varianza
 Vedere
 Vogliamo
+<<<<<<< HEAD
 Visitor
 Vengono
+=======
+Viene
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 zm
 zA
 zW
@@ -2737,7 +3226,11 @@ jk
 jNM
 jP
 jVR
+<<<<<<< HEAD
 javascript
 java
+=======
+join
+>>>>>>> 6f428a6 (vault backup: 2025-10-20 19:11:43)
 üy
 ßBP
