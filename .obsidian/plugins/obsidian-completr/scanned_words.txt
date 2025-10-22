@@ -182,6 +182,9 @@ database
 dentro
 dare
 dichiarate
+default
+definite
+definito
 course
 che
 classificazione
@@ -396,6 +399,7 @@ Iterator
 IP
 Interpreti
 Inner
+Interfaccia
 Del
 Di
 DD
@@ -863,6 +867,7 @@ linux
 linguaggio
 legato
 locale
+locali
 alberi
 allenamento
 apprendere
@@ -981,6 +986,8 @@ accessibile
 accedere
 aggiungere
 anonime
+astratti
+aggiunti
 reviewed
 review
 regressione
@@ -1063,6 +1070,7 @@ risolva
 raggruppare
 riconoscono
 racchiude
+rendono
 false
 funzione
 file
@@ -1133,6 +1141,7 @@ facendo
 filtri
 facile
 funzionare
+fumare
 next
 nostro
 now
@@ -1329,6 +1338,7 @@ interne
 interna
 istanziato
 include
+introduce
 esempi
 esempio
 etichettata
@@ -1398,6 +1408,9 @@ esecuzione
 esistenza
 esterno
 esistere
+estese
+ero
+evoluzione
 outputs
 obiettivo
 ogni
@@ -1453,6 +1466,7 @@ opera
 ordine
 organizzativa
 organizzazione
+obbligatori
 quello
 quale
 questo
@@ -1631,6 +1645,7 @@ Molte
 Molto
 Mediator
 Mi
+Metodi
 HH
 HD
 HHHL
@@ -1851,6 +1866,9 @@ programmare
 penalizzare
 performance
 puramente
+programmi
+permettere
+preciso
 Predizione
 Per
 PNG
@@ -1960,6 +1978,7 @@ utilizzando
 unica
 utilizzo
 usati
+usano
 valore
 valori
 vettore
@@ -2186,6 +2205,7 @@ statici
 soltanto
 sintassi
 supplemento
+superclasse
 booleani
 base
 bG
