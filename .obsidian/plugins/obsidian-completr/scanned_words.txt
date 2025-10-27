@@ -91,6 +91,7 @@ tracciabile
 tag
 tratterebbe
 totale
+tipato
 dashboard
 date
 di
@@ -253,6 +254,11 @@ direzione
 derivata
 discesa
 dicono
+dichiarazioni
+dichiarata
+dichiarare
+dinamicamente
+dettate
 course
 che
 classificazione
@@ -498,6 +504,16 @@ cambiamo
 convergenza
 convessa
 curve
+costanti
+conciso
+contemporaneamente
+clicco
+callback
+certe
+contenuta
+comportano
+create
+collection
 Ingegneria
 III
 Insieme
@@ -562,6 +578,9 @@ Isolamento
 IoTh
 Integrazione
 Iterativo
+Importante
+Implemento
+Imperativo
 Del
 Di
 DD
@@ -632,6 +651,7 @@ Dipende
 DNS
 Debian
 Directory
+Decidono
 Software
 Set
 Soon
@@ -719,6 +739,8 @@ Servono
 Servizio
 Sarebbe
 Siccome
+SmallTalk
+Scripting
 Overview
 Ogni
 Occorre
@@ -790,6 +812,8 @@ Logging
 Lunga
 Lettura
 Lanciando
+Locali
+Linguaggio
 Review
 Reviewed
 Riferimenti
@@ -1000,6 +1024,7 @@ Consente
 CI
 Controllano
 Cerco
+Con
 Anno
 Apprendimento
 Automatico
@@ -1074,6 +1099,8 @@ Andrea
 Arcangeli
 Algoritmo
 Attraversiamo
+Anonime
+Al
 lecture
 last
 la
@@ -1157,6 +1184,8 @@ lavorando
 leggere
 learning
 loss
+limitato
+listener
 alberi
 allenamento
 apprendere
@@ -1335,6 +1364,10 @@ arriva
 aperti
 applicarlo
 aggiustando
+ascolto
+azioni
+analoghe
+anonima
 reviewed
 review
 regressione
@@ -1466,6 +1499,8 @@ release
 registri
 rapidamente
 rate
+resto
+richiude
 false
 funzione
 file
@@ -1570,6 +1605,7 @@ fondamentali
 facesse
 fatte
 function
+final
 next
 nostro
 now
@@ -1692,6 +1728,8 @@ Fly
 For
 File
 Funziona
+Figlio
+Funzionale
 insieme
 inputs
 istanza
@@ -1814,6 +1852,14 @@ ioctl
 inserirlo
 info
 inizia
+inner
+incapsulamento
+istanziata
+invece
+implementati
+implementano
+indiretto
+indentazione
 esempi
 esempio
 etichettata
@@ -1917,6 +1963,7 @@ eludere
 eseguito
 esce
 euristiche
+essi
 outputs
 obiettivo
 ogni
@@ -1994,6 +2041,7 @@ over
 ordinari
 ossia
 opportunamente
+overridato
 quello
 quale
 questo
@@ -2039,6 +2087,7 @@ quantit
 qualcun
 quell
 quelli
+qualcosa
 mappa
 mm
 meglio
@@ -2162,6 +2211,9 @@ mancano
 mandare
 minimizza
 misurata
+metterla
+modificate
+modificata
 YYYY
 Yw
 YR
@@ -2326,6 +2378,7 @@ Usate
 Utilizza
 UDP
 Usa
+Utilizzo
 problema
 preliminare
 possibili
@@ -2510,6 +2563,10 @@ parziali
 parziale
 passaggio
 perpendicolarmente
+pubblica
+protetta
+paradigma
+paradigmi
 Predizione
 Per
 PNG
@@ -2580,6 +2637,7 @@ Prende
 Progetto
 Portabilit
 Proof
+Python
 una
 un
 uscente
@@ -2652,6 +2710,7 @@ ultimi
 usatissimo
 ufficiale
 ufficiali
+utili
 valore
 valori
 vettore
@@ -2756,6 +2815,8 @@ virtualizzato
 venire
 vecchi
 vicino
+visibile
+vuol
 spazio
 soluzione
 scelta
@@ -2979,6 +3040,14 @@ servono
 spedire
 scendendo
 scendere
+specifico
+scope
+sintattico
+sola
+situazioni
+separata
+slide
+scoping
 booleani
 base
 bG
@@ -3043,6 +3112,7 @@ button
 bug
 building
 bella
+bottone
 Espressivita
 Entropia
 Essa
@@ -3090,6 +3160,8 @@ Esamina
 Esecuzione
 Esiste
 Espansione
+Effectively
+Event
 hanno
 hU
 ho
@@ -3119,6 +3191,7 @@ hashing
 hard
 hash
 hypervisor
+hiding
 grado
 gkN
 gh
@@ -3178,6 +3251,8 @@ garanzia
 guadagnare
 garantisce
 globale
+grafici
+garbage
 JJ
 JA
 JZ
@@ -3398,6 +3473,7 @@ ZR
 Zr
 ZK
 ZE
+Zucchero
 Bm
 BR
 Basi
